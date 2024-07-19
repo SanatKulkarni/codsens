@@ -67,6 +67,7 @@ const LoadingSkeleton = () => {
 			<div className='h-4 sm:w-52  w-32 rounded-full bg-dark-layer-1'></div>
 			<div className='h-4 sm:w-52 w-32 rounded-full bg-dark-layer-1'></div>
 			<span className='sr-only'>Loading...</span>
+			<h1 style={{ color: 'white' }}>Please Sign In</h1>
 		</div>
 	);
 };
